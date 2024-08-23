@@ -1,12 +1,10 @@
 h2 {
-font-family: "Montserrat";
-font-style: normal;
-font-size: 22px;
-font-weight: 700;
-line-height: 33px;
-text-align: left;
-color: #0D6EFD;
-border-bottom: 1px solid #0D6EFD;
-text-transform: uppercase;
-
+    color: #0D6EFD;
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    border-bottom: 1px solid #0D6EFD;
+    text-transform: uppercase;
 }
